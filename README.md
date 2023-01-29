@@ -39,5 +39,4 @@ Duration: 5 weeks
 - Used BLEU score as the evaluation metric for the model. Obtained the BLEU-1,2,3,4 scores
 - Discussed the importance of evaluation metrics in this task
 - Provided an opportunity to integrate and apply the knowledge and skills acquired throughout the course to solve real-world problems.
-
 - Integrated and applied knowledge and skills acquired throughout the course to solve real-world problems.
